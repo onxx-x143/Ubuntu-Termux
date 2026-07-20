@@ -22,7 +22,7 @@ One-click Ubuntu rootfs setup for Termux with proot.
 ## Termux install 
 ```
 git clone https://github.com/onxx-x143/Ubuntu-Termux.git
-cd Ubuntu-Termux.git
+cd Ubuntu-Termux
 chmod +x main.sh
 bash main.sh
 ```
