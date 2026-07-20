@@ -32,7 +32,7 @@ am start -a android.intent.action.VIEW -d "https://github.com/onxx-x143" com.and
     case $opt in
         1)
             echo -e "\e[1;32mStarting installation...\e[0m"
-            bash ubnutu.sh
+            bash ubuntu.sh
             read -p $'\e[1;36mPress Enter to continue...\e[0m'
             ;;
         2)
