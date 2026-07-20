@@ -19,6 +19,12 @@ One-click Ubuntu rootfs setup for Termux with proot.
 - Full Ubuntu 24.10 environment
 - Internet & storage access
 - Clean & colored output
-
-```bash
-bash ubuntu.sh
+## Termux install 
+```
+https://github.com/onxx-x143/Ubuntu-Termux.git
+cd Ubuntu-Termux.git
+chmod +x main.sh
+bash main.sh
+```
+``
+        by ONXX 🦅🫅🏻
