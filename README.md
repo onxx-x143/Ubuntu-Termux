@@ -21,7 +21,7 @@ One-click Ubuntu rootfs setup for Termux with proot.
 - Clean & colored output
 ## Termux install 
 ```
-https://github.com/onxx-x143/Ubuntu-Termux.git
+git clone https://github.com/onxx-x143/Ubuntu-Termux.git
 cd Ubuntu-Termux.git
 chmod +x main.sh
 bash main.sh
